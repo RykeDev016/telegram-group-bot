@@ -48,7 +48,6 @@ telegram-group-bot/
 │
 ├── bot.py              # Código principal do bot
 ├── README.md           # Documentação do projeto
-├── requirements.txt    # Dependências Python
 └── data/               # Banco de dados local (gerado automaticamente)
 
 ---
@@ -63,7 +62,7 @@ telegram-group-bot/
 ### 📦 Instalação
 
 1. **Clone o repositório**
-   git clone https://github.com/RykeDev016edev/telegram-group-bot.git  
+   git clone https://github.com/RykeDev016/telegram-group-bot.git  
    cd telegram-group-bot
 
 2. **Crie um ambiente virtual**
