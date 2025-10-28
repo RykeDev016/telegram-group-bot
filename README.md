@@ -63,7 +63,7 @@ telegram-group-bot/
 ### 📦 Instalação
 
 1. **Clone o repositório**
-   git clone https://github.com/rykRykeDev016edev/telegram-group-bot.git  
+   git clone https://github.com/RykeDev016edev/telegram-group-bot.git  
    cd telegram-group-bot
 
 2. **Crie um ambiente virtual**
